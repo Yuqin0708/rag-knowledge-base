@@ -1,0 +1,21 @@
+[project]
+name = "rag"
+version = "0.1.0"
+description = ""
+authors = [{ name = "Yuqin0708" }]
+requires-python = ">=3.12,<3.13"
+dependencies = [
+    "fastapi[standard] (==0.115.9)",
+    "openai (>=1.79.0,<2.0.0)",
+    "python-dotenv (>=1.1.0,<2.0.0)",
+    "chromadb (>=1.0.9,<2.0.0)",
+    "protobuf (==3.20.3)",
+]
+
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
+
+[tool.poetry]
+package-mode = false
