@@ -6,6 +6,8 @@
 
 - **對話頁（`/chat`）**：輸入問題，取得依知識庫產生的回答。
 - **知識庫管理（`/knowledge`）**：新增、關鍵字搜尋、編輯、刪除知識。
+<img width="2872" height="1554" alt="圖片" src="https://github.com/user-attachments/assets/2375dad1-8054-470a-8039-bbdfce8e590e" />
+<img width="2872" height="1554" alt="圖片" src="https://github.com/user-attachments/assets/57268019-06aa-475f-867e-05692008e0a0" />
 
 ## 運作流程
 
